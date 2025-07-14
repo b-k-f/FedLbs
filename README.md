@@ -1,4 +1,4 @@
-# Paper Title
+# FedLbs: Federated Learning Loss-Based Swapping Approach for Energy Building’s Load Forecasting
 
 **Author:** Bouchra Fakher
 **Published in:** 2024 IWCMC 
