@@ -1,8 +1,8 @@
 # FedLbs: Federated Learning Loss-Based Swapping Approach for Energy Building’s Load Forecasting
 
-**Author:** Bouchra Fakher
-**Published in:** 2024 IWCMC 
-**Date:** 2024
+**Author:** Bouchra Fakher  
+**Published in:** 2024 IWCMC  
+**Date:** 2024  
 **DOI:** [[DOI link]](https://doi.org/10.1109/IWCMC61514.2024.10592511)
 
 ## Abstract
